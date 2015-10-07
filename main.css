@@ -1,7 +1,7 @@
 
 
 .octocat img {
-  width:300px;
+  width:370px;
   height:250px;
   display:inline;
 }
@@ -10,7 +10,7 @@
   height:275px;
   display:inline-block;
   border:lightgrey solid 1px;
-  margin: 0 25px 0 25px;
+  margin: 0 10px 0 10px;
   border-radius: 3%;
 }
 
@@ -29,14 +29,6 @@
   float:left;
   color:lightgrey;
   font-family:sans-serif;
-  padding-right: 100px;
-}
-
-span:nth-child(4n) {
-  float:left;
-  color:lightgrey;
-  font-family:sans-serif;
-  padding-right: 15px;
 }
 
 .image-caption{

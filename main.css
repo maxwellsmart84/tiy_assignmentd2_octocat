@@ -25,6 +25,13 @@
   padding-bottom: 25px;
 }
 
+.image-number::before {
+  content: "#";
+  margin-right:2px;
+  color:lightgrey;
+}
+
+
 .image-number {
   float:left;
   color:lightgrey;
